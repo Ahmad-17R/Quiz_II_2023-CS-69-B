@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357365882652",
+    "project_id": "madquizapp-4fcf2",
+    "storage_bucket": "madquizapp-4fcf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357365882652:android:aa541a978d1cf60ffd64d9",
+        "android_client_info": {
+          "package_name": "com.example.application_with_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6fbEJSMTeMNWz3jC1ebHsILLvIddiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
